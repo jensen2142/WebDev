@@ -1,0 +1,15 @@
+.bold {
+    font-weight: bolder;
+}
+li {
+    font-weight: normal;
+    font-size: smaller;
+}
+a:link {
+    color: blue;
+    font-weight: bold;
+}
+a:visited{
+    font-weight: normal;
+    color: black;
+}
